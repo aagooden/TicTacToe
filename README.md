@@ -13,8 +13,6 @@ Enter in terminal in directory where app was cloned
 
 $ ruby tictactoe.rb
 
-System Requirements:
-
-Ruby needs to be installed on your system. Ruby 2.0 or later is recommended.
-
-Ruby - Click here for more information on installing Ruby on your system.
+### System Requirements:
+Ruby needs to be installed on your system.  Ruby 2.0 or later is recommended.  
+* [Ruby](https://www.ruby-lang.org/en/documentation/installation/) - Click here for more information on installing Ruby on your system.
